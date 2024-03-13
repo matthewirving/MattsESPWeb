@@ -33,8 +33,6 @@ void connectToWifi()
   {
     Serial.print("Connected!");
     Serial.println(WiFi.localIP());
-
-    
   }
 }
 
